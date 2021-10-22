@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pserkyt
+- 👀 I’m interested in desktop/mobile application and game development.
+- 🌱 I’m currently learning Vulkan!
+- 📫 How to reach me: https://pserkyt.com/contact/
